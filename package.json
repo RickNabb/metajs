@@ -1,0 +1,22 @@
+{
+  "name": "metajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RickNabb/metajs.git"
+  },
+  "author": "Nick Rabb (nick.rabb2@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RickNabb/metajs/issues"
+  },
+  "homepage": "https://github.com/RickNabb/metajs#readme",
+  "dependencies": {
+    "node-cmd": "^3.0.0"
+  }
+}
